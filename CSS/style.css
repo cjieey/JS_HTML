@@ -1,0 +1,60 @@
+#container{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 150px;
+}
+#container p{
+    margin-top: 20px;
+    width: 50%;
+}
+#container img{
+    margin-top: 10px;
+    margin-left: -450px;
+    width: auto;
+    height: 500px;
+
+}
+.ClassL{
+    margin-top: 100px;
+}
+ /* SA UBOS NGA PART */
+#containers{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-bottom: 150px;
+}
+#containers img{
+    width: 250px;
+    height: auto;
+}
+#containers p{
+    width: 240px;
+}
+#containers h1{
+    text-align: center;
+}
+.content{
+    margin-top: 60px;
+    margin-left: 50px;
+    display: flex;
+}
+.content p{
+    text-align: justify;
+}
+.proj{
+    margin-left: 100px;
+}
+
+
+/* button */
+
+button{
+    background-color: black;
+    color: white;
+    border-style: none;
+    font-weight: bolder;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
